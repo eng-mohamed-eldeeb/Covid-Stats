@@ -41,6 +41,16 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
+
+## Live Demo
+
+- [live demo to see the Covid Stats](https://exquisite-kringle-86789b.netlify.app/)
+
+
+## Site Screenshots
+
+![screaanshote](./img.png)
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
