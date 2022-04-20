@@ -4,7 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 import thunk from 'redux-thunk';
 import logger from 'redux-logger';
 import configureStore from 'redux-mock-store';
-import Home from '../Components/Home';
+import Home from '../Component/Home';
 
 const contriesArr = [
   {

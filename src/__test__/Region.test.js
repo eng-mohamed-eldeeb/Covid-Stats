@@ -4,7 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 import thunk from 'redux-thunk';
 import logger from 'redux-logger';
 import configureStore from 'redux-mock-store';
-import Region from '../Components/Region';
+import Region from '../Component/Region';
 
 const regions = [
   {
