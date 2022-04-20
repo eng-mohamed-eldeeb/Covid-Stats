@@ -47,6 +47,11 @@ Feel free to check the [issues page](../../issues/).
 - [live demo to see the Covid Stats](https://exquisite-kringle-86789b.netlify.app/)
 
 
+
+## Video for the code
+
+- [A loom video](https://www.loom.com/share/971dcebde0224867b15e7f9b9ead7408)
+
 ## Site Screenshots
 
 ![screaanshote](./img.png)
