@@ -46,6 +46,9 @@ Feel free to check the [issues page](../../issues/).
 
 - [live demo to see the Covid Stats](https://exquisite-kringle-86789b.netlify.app/)
 
+## Acknowledgements
+
+-credit to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)), as required by the [Creative Commons](https://creativecommons.org/licenses/) License.
 
 
 ## Video for the code
