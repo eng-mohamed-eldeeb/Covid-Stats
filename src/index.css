@@ -17,7 +17,6 @@ body {
   background-color: #4b77cf;
 }
 
-.country:nth-child(4n+2),
-.country:nth-child(4n+3) {
+.country:nth-child(2n) {
   background-color: #3e61a6;
 }
