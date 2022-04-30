@@ -36,7 +36,7 @@ const Region = () => {
           {region.regions !== undefined && region.regions.map((region) => (
             <li
               key={region.id}
-              className="country w-full grid p-4 text-white"
+              className="grid grid-cols-2 country w-full grid p-4 text-white"
               data-testid="regionListItem"
             >
               <i className="far fa-arrow-alt-circle-right fa-lg" />
